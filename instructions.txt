@@ -1,0 +1,21 @@
+fais un portfolio en react
+je veux que le portfolio soit un site vitrine de mon travail
+je veux que le portfolio soit responsive
+toutes les pages doivent êtres sur la même page
+il doit y avoir une page "à propos", une page "travail", une page "contact"
+il doit y avoir un menu de navigation qui permette de naviguer entre les pages
+il doit y avoir une section "à propos" avec une photo de moi et une description de moi
+il doit y avoir une section "projets" avec les projets que j'ai réalisé
+il doit y avoir une section "compétences" avec les compétences que j'ai par exemple :
+- React
+- Node.js
+- Next.js
+- MongoDB
+- Git
+- Docker
+- c
+- c++
+- python
+- linux
+il doit y avoir une section "contact" avec un formulaire de contact
+je veux que le portfolio soit stylé avec tailwind de façon simple et moderne avec des couleurs sombres
